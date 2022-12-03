@@ -9,4 +9,4 @@ Day 2 scrim:
 https://scrimba.com/scrim/cofca4fb8a2b0f0e42c5fc2ee
 
 Day 3 scrim:
-https://scrimba.com/scrim/co9a441f980e1e0dfce14b8e1
+https://scrimba.com/scrim/co5d340988604d2e33d499454
