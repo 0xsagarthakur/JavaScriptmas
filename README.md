@@ -10,3 +10,6 @@ https://scrimba.com/scrim/cofca4fb8a2b0f0e42c5fc2ee
 
 Day 3 scrim:
 https://scrimba.com/scrim/co5d340988604d2e33d499454
+
+Day 4 scrim:
+https://scrimba.com/scrim/coa064f619891a1c4a91c4a4b
