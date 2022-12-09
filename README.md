@@ -25,3 +25,6 @@ https://scrimba.com/scrim/co02342a0a684027d504f6ead
 
 Day 8 scrim:
 https://scrimba.com/scrim/cof2947c89a2703859a3aef35
+
+Day 9 scrim:
+https://scrimba.com/scrim/co2484d38aa1c2d26112172da
