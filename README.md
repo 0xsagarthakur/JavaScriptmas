@@ -37,3 +37,8 @@ https://scrimba.com/scrim/co0234c0ab970f570e2dab56a
 
 Day 12 scrim:
 https://scrimba.com/scrim/co95c4275952da446c860eedb
+
+Day 13 scrim:
+https://scrimba.com/scrim/co9ae4212a7a8951cb2802190
+
+
