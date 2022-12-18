@@ -52,3 +52,6 @@ https://scrimba.com/scrim/cod884dfca9e11aa504c199f8
 
 Day 17 scrim:
 https://scrimba.com/scrim/co1ae4af78d2978b720d8da2a
+
+Day 18 scrim:
+https://scrimba.com/scrim/coc9947c299d33257fee0aa4c
