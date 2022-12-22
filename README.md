@@ -64,3 +64,6 @@ https://scrimba.com/scrim/coa0a449b934a247d2cc60b46
 
 Day 21 scrim:
 https://scrimba.com/scrim/cod5b4969bc89daae95d75f8c
+
+Day 22 scrim:
+https://scrimba.com/scrim/coa0e459b9a773d2abfa9730e
