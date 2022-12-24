@@ -70,3 +70,6 @@ https://scrimba.com/scrim/coa0e459b9a773d2abfa9730e
 
 Day 23 scrim:
 https://scrimba.com/scrim/co3fa42c396f79e3300d74b66
+
+Day 24 scrim:
+https://scrimba.com/scrim/co8d440a3be0a274a1064de34
